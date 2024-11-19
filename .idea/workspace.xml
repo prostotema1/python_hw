@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5b1913-a1f2-4d51-9866-db8fdcd7957c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonHW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e5b1913-a1f2-4d51-9866-db8fdcd7957c" name="Changes" comment="hw 1 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +36,13 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonHW\PythonHW\hw_1\artifacts\3" />
+      <recent name="D:\pythonHW\PythonHW\hw_1\artifacts\2" />
+      <recent name="D:\pythonHW\PythonHW\hw_1\artifacts\1" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonHW" />
@@ -88,6 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731601343574</updated>
     </task>
+    <task id="LOCAL-00001" summary="hw 1 completed">
+      <option name="closed" value="true" />
+      <created>1732021811633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732021811633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw 1 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 1 completed" />
   </component>
 </project>
