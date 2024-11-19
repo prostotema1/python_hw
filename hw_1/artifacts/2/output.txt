@@ -1,0 +1,71 @@
+#Ввод 1
+python .\hw_1\2\task2.py .\hw_1\artifacts\2\test.txt
+
+#Вывод 1
+Parsing file: .\hw_1\artifacts\2\test.txt
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+a
+
+#Ввод 2
+python .\hw_1\2\task2.py .\test2.txt
+
+#Вывод 2
+Файл '.\test2.txt' не найден.
+
+#Ввод 3
+echo "ab"  "test"  "test"  "test"  "ab"  "test"  "test"  "test"  "test" "aboba" "aboba"  "aboba"  "aboba"  "aboba"  "aboba"   "aboba"   "aboba"   "aboba" | python .\hw_1\2\task2.py
+
+#Вывод 3
+Parsing stdint
+test
+test
+test
+ab
+test
+test
+test
+test
+aboba
+aboba
+aboba
+aboba
+aboba
+aboba
+aboba
+aboba
+aboba
+
+#Ввод 4
+python .\hw_1\2\task2.py .\hw_1\artifacts\2\test.txt .\hw_1\artifacts\2\tst.txt
+
+#Вывод 4
+Parsing file: .\hw_1\artifacts\2\test.txt
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+a
+Parsing file: .\hw_1\artifacts\2\tst.txt
+8907987
+123
+76
+87
+89
+8907987
+123
+76
+87
+89

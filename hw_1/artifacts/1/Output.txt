@@ -1,0 +1,41 @@
+#Ввод 1
+python .\hw_1\1\task1.py .\hw_1\artifacts\1\text.txt
+
+#Вывыод 1
+        1 some text
+
+        2 some text
+
+        3 some textsome textsome textsome text
+
+        4 some textsome text
+
+        5 some text
+
+        6 some text
+
+        7 some text
+
+        8 some text
+
+        9 some text
+
+        10 some text
+        11
+
+#Ввод 2
+python .\hw_1\1\task1.py
+some text
+some text
+some text
+
+#Вывод 2
+    1 some text
+    2 some text
+    3 some text
+
+#Ввод 3
+python .\hw_1\1\task1.py not_existing_filepath.txt
+
+#Вывод 3
+Файл 'not_existing_filepath.txt' не найден.

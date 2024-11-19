@@ -1,0 +1,27 @@
+#Ввод 1
+python .\hw_1\3\task3.py .\hw_1\artifacts\3\t1.txt .\hw_1\artifacts\3\t2.txt
+
+#Вывод 1
+Parsing file: .\hw_1\artifacts\3\t1.txt
+        33      38      396
+Parsing file: .\hw_1\artifacts\3\t2.txt
+        4       5       35
+Total rows: 37
+Total words: 37
+Total bites: 431
+
+
+
+#Ввод 2
+echo "smth" "smth" "smth" "smth" "smth" "smth" "smth" "smth" "smth" "smth" "smth" "smth" "smth" | python .\hw_1\3\task3.py
+
+#Вывод 2
+        13      13      65
+
+#Ввод 3
+python .\hw_1\3\task3.py .\hw_1\artifacts\3\t2.txt
+
+#Вывод 3
+Parsing file: .\hw_1\artifacts\3\t2.txt
+        4       5       35
+
