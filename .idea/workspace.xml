@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5b1913-a1f2-4d51-9866-db8fdcd7957c" name="Changes" comment="hw 1 completed" />
+    <list default="true" id="3e5b1913-a1f2-4d51-9866-db8fdcd7957c" name="Changes" comment="setting up requirements.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonHW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonHW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prostotema1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prostotema1/python_hw.git&quot;,
+    &quot;accountId&quot;: &quot;b539a732-af9c-470b-b1a1-9c01d3634590&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -29,18 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.hw_2/Dockerfile.executor": "Run",
+    "Python.Matrix1.executor": "Run",
+    "Python.Matrix2.executor": "Run",
+    "Python.Matrix3.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.generate_tex.executor": "Run",
+    "Python.setup.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/artem/Desktop/dbHomewrok/join-prostotema1",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonHW\PythonHW\hw_2\artifacts" />
+      <recent name="D:\pythonHW\PythonHW\hw_3\1" />
+      <recent name="D:\pythonHW\PythonHW\hw_3\artifacts\3_1" />
+      <recent name="D:\pythonHW\PythonHW\hw_2\latex_generator" />
       <recent name="D:\pythonHW\PythonHW\hw_1\artifacts\3" />
-      <recent name="D:\pythonHW\PythonHW\hw_1\artifacts\2" />
-      <recent name="D:\pythonHW\PythonHW\hw_1\artifacts\1" />
     </key>
   </component>
   <component name="RunManager">
@@ -66,8 +93,46 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="generate_tex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonHW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2/latex_generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_2/latex_generator/generate_tex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="hw_2/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="hw_2/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.hw_2/Dockerfile" />
+        <item itemvalue="Python.generate_tex" />
         <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
@@ -80,6 +145,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\artem\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3e5b1913-a1f2-4d51-9866-db8fdcd7957c" name="Changes" comment="" />
@@ -96,11 +164,29 @@
       <option name="project" value="LOCAL" />
       <updated>1732021811633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git changes">
+      <option name="closed" value="true" />
+      <created>1732022005915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022005915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="setting up requirements.txt">
+      <option name="closed" value="true" />
+      <created>1732022112230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732022112230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw 1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 1 completed" />
+    <MESSAGE value="git changes" />
+    <MESSAGE value="setting up requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting up requirements.txt" />
   </component>
 </project>
